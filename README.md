@@ -1,20 +1,17 @@
 # TeacherOn-Automation
 #### accessing jobs quicker.
 
-#      ...
 - Why do this?
 <img src='images\whydothis.png'>
 
-#      ...
 
 - When this is a lot faster...
-#      ...
 ```
 cmd> python sidehustle.py
 ```
-#      ...
+
 <img src='images\whenucandothis.png'>
-#      ...
+
 
 ## Usage
 - Run the following command in your terminal
